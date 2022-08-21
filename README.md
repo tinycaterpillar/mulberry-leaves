@@ -1,2 +1,2 @@
 # mulberry-leaves
-ps
+ps와 관련된 곳(python)
